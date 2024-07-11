@@ -1,0 +1,16 @@
+.primeira {
+    background-color: rgb(244, 230, 230);
+    justify-content: center;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+input {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+button {
+    margin-top: 300px;
+}
